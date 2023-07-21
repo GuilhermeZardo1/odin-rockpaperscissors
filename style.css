@@ -1,0 +1,11 @@
+.result{
+    color:chartreuse;
+}
+
+.player-score{
+    color:blue;
+}
+
+.ai-score{
+    color:brown;
+}
